@@ -4,7 +4,7 @@ sap.ui.define([
     "sap/ui/model/resource/ResourceModel"
  ], function (UIComponent, JSONModel, ResourceModel) {
     "use strict";
-    return UIComponent.extend("hHTS.IT.FIAE.ITQ.Component", {
+    return UIComponent.extend("HTS.IT.FIAE.ITQ.Component", {
       metadata : {
          manifest: "json"
    },
