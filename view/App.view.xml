@@ -5,7 +5,7 @@
    xmlns:core="sap.ui.core"
    controllerName="HTS.IT.FIAE.ITQ.controller.App"
    displayBlock="true">
-   <Shell backgroundImage=logo2.PNG>
+   <Shell backgroundImage="logo2.PNG">
       <App>
          <pages>
             <Page title="{i18n>homePageTitle}">
