@@ -5,10 +5,10 @@
       headerText="{i18n>invoiceListTitle}"
       class="sapUiResponsiveMargin"
       width="auto"
-      items="{Liste>/Schueler}" >
+      items="{liste>/Schueler}" >
       <items>
          <ObjectListItem
-            title="{Liste>SchülerName}, {Liste>SchülerVorname"/>
+            title="{liste>SchülerName}, {liste>SchülerVorname"/>
       </items>
    </List>
 </mvc:View>
