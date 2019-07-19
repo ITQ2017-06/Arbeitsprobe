@@ -1,7 +1,7 @@
 {
     "_version": "1.12.0",
     "sap.app": {
-      "id": "hts.itq2017.walkthrough",
+      "id": "HTS.IT.FIAE.ITQ",
       "type": "application",
       "i18n": "i18n/i18n.properties",
       "title": "{{appTitle}}",
@@ -20,7 +20,7 @@
     },
     "sap.ui5": {
       "rootView": {
-          "viewName": "hts.itq2017.walkthrough.view.App",
+          "viewName": "HTS.IT.FIAE.ITQ.view.App",
           "type": "XML",
           "async": true,
           "id": "app"
@@ -35,7 +35,7 @@
         "i18n": {
           "type": "sap.ui.model.resource.ResourceModel",
           "settings": {
-            "bundleName": "hts.itq2017.walkthrough.i18n.i18n"
+            "bundleName": "HTS.IT.FIAE.ITQ.i18n.i18n"
           }
         }
       ,"invoice": {
