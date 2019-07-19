@@ -5,7 +5,7 @@
       headerText="{i18n>invoiceListTitle}"
       class="sapUiResponsiveMargin"
       width="auto"
-      items="{Schueler>/liste}" >
+      items="{Schueler>/Schueler" >
       <items>
          <ObjectListItem
             title="Der {Schueler>SchülerName}, {Schueler>SchülerVorname} ist in der Abteilung {Schueler>Klasse}, in der Klasse {Schueler>Abteilung} und ist {Schueler>Alter} Jahre sein."/>
